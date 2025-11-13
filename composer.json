@@ -1,5 +1,5 @@
 {
-    "name": "ringbeta/payment",
+    "name": "yooer/payment",
     "description": "支付服务 SDK",
     "type": "library",
     "license": "MIT",
