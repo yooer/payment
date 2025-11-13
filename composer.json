@@ -1,1 +1,15 @@
-
+{
+    "name": "ringbeta/payment",
+    "description": "支付服务 SDK",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ringbeta\\Payment\\": "src/"
+        }
+    }
+}
